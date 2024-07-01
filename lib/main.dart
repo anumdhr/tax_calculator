@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:tax_calculator/home_page/home_page.dart';
-import 'package:tax_calculator/home_page/tax_bloc.dart';
+import 'package:tax_calculator/home_page/bloc/tax_bloc.dart';
 
 void main() {
   runApp(const MyApp());

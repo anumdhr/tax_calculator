@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:tax_calculator/home_page/tax_bloc.dart';
+import 'package:tax_calculator/home_page/bloc/tax_bloc.dart';
 import 'package:tax_calculator/home_page/widget/custom_text_field.dart';
 
 class HomePage extends StatelessWidget {
